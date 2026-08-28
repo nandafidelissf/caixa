@@ -3,7 +3,12 @@ main{
     border: 2px solid black; ;
     display: block;
     width: 450px;
- margin-inline: auto;
+ margin-inline: auto;}
+header{
+    border: 2px solid black; ;
+    display: inline-block;
+    width: 350px;
+ 
     
     
 }
@@ -40,10 +45,15 @@ width: 55px;
 height: 65px;
 display: inline-block;
   }
-
   rodape .rodape{
     border: 1px solid black;
     margin: 10px 20px 30px 40px;
     padding: 2px 4px;
   }
  
+  .caixadois{
+     border: 2px solid black;
+width: 10px;
+height: 65px;
+display: inline-block;
+  }
