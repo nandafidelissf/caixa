@@ -46,7 +46,7 @@ p {
     margin-bottom: 40px;
 }
 
-.caixas div {
+ .caixas div {
 
     border: 2px solid black;
     width: 55px;
@@ -59,10 +59,7 @@ p {
     margin: 10px 20px 30px 40px;
     padding: 2px 4px;
 }
-
 .cxdois {
-    border: 2px solid black;
-    width: 10px;
-    height: 65px;
-    display: inline-block;
+   
+    margin-left: -25px;
 }
